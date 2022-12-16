@@ -11,8 +11,6 @@ There's 2 repositories :
 
 ### What do i like ?
 Cats.
-Tea.
-Linux.
 
 ### What do i dislike ?
 Typing sl instead of ls.
