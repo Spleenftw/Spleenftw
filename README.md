@@ -1,7 +1,7 @@
 ## Welcome to my Github !
 
 ### Who am i ?
-I'm spleenftw, a young sys-admin studying networks & cybersecurity. I kinda like Linux so you'll find plenty of config files to tune your Linux.
+Hello there, spleenftw here, a young sys-admin studying Networks, Computers, Telecommunications & Cybersecurity. I kinda like Linux so you'll find plenty of config files to tune your Linux.
 
 
 ### What can you find here ?
