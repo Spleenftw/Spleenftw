@@ -5,7 +5,8 @@ Hello there, spleenftw here, Netops. I kinda like Linux so you'll find plenty of
 
 
 ### What can you find here ?
-There's 2(3) repositories :
+There's 3(4) repositories :
+  - [blog](https://blog.interlope.xyz) where you can find my blog where I'm talking about linux, network and security.
   - [dotfiles](https://github.com/spleenftw/dotfiles) where you can find my linux dotfiles.
   - [wallpapers](https://github.com/spleenftw/wallpapers) where you can find all the wallpapers i'm currently using.
   - [openvpn_exporter](https://github.com/Spleenftw/openvpn_exporter) where you can find my fork of the openvpn_exporter tool.
