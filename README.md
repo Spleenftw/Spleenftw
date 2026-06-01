@@ -8,6 +8,7 @@ Hello there, spleenftw here, Netops. I kinda like Linux so you'll find plenty of
 There's a few repositories :
   - [blog](https://github.com/spleenftw/blog) where you can find my blog where I'm talking about linux, network and security.
   - [blowdit](https://github.com/spleenftw/blowdit) where you can find my bludit theme based on blowfish (hugo).
+  - [bludit-github](https://github.com/spleenftw/bludit-github) where you can find my bludit plugin to push my articles to the blog repository.
   - [dotfiles](https://github.com/spleenftw/dotfiles) where you can find my linux dotfiles.
   - [wallpapers](https://github.com/spleenftw/wallpapers) where you can find all the wallpapers i'm currently using.
   - [openvpn_exporter](https://github.com/Spleenftw/openvpn_exporter) where you can find my fork of the openvpn_exporter tool.
