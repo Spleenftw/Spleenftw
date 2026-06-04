@@ -7,7 +7,7 @@ Hello there, spleenftw here, Netops. I kinda like Linux so you'll find plenty of
 ### What can you find here ?
 There's a few repositories :
   - [blog](https://github.com/spleenftw/blog) — my blog, where I talk about Linux, networking and security.
-  - [blud-blowfish](https://github.com/spleenftw/bludit-blowfish) — A Bludit theme that brings the Hugo Blowfish design to your blog.
+  - [bludit-blowfish](https://github.com/spleenftw/bludit-blowfish) — A Bludit theme that brings the Hugo Blowfish design to your blog.
   - [bludit-github-sync](https://github.com/spleenftw/bludit-github-sync) — A Bludit plugin that auto-exports your articles to a GitHub repo as Markdown.
   - [bludit-github-comments](https://github.com/spleenftw/bludit-github-comments) — A Bludit plugin that adds comments via GitHub and Utterances.
   - [bludit-toc](https://github.com/spleenftw/bludit-toc) — A Bludit plugin that auto-generates a table of contents from h2/h3/h4 headings.
