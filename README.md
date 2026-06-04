@@ -6,10 +6,11 @@ Hello there, spleenftw here, Netops. I kinda like Linux so you'll find plenty of
 
 ### What can you find here ?
 There's a few repositories :
-  - [blog](https://github.com/spleenftw/blog) where you can find my blog where I'm talking about linux, network and security.
-  - [blowdit](https://github.com/spleenftw/blowdit) where you can find my bludit theme based on blowfish (hugo).
-  - [bludit-github-sync](https://github.com/spleenftw/bludit-github-sync) where you can find my bludit plugin to push my articles to the blog repository.
-  - [bludit-github-comments](https://github.com/Spleenftw/bludit-github-comments) which is a fork, using utteranc.es to create issue and used as comments on the blog repository.
+  - [blog](https://github.com/spleenftw/blog) — my blog, where I talk about Linux, networking and security.
+  - [blud-blowfish](https://github.com/spleenftw/bludit-blowfish) — A Bludit theme that brings the Hugo Blowfish design to your blog.
+  - [bludit-github-sync](https://github.com/spleenftw/bludit-github-sync) — A Bludit plugin that auto-exports your articles to a GitHub repo as Markdown.
+  - [bludit-github-comments](https://github.com/spleenftw/bludit-github-comments) — A Bludit plugin that adds comments via GitHub and Utterances.
+  - [bludit-toc](https://github.com/spleenftw/bludit-toc) — A Bludit plugin that auto-generates a table of contents from h2/h3/h4 headings.
   - [dotfiles](https://github.com/spleenftw/dotfiles) where you can find my linux dotfiles.
   - [wallpapers](https://github.com/spleenftw/wallpapers) where you can find all the wallpapers i'm currently using.
   - [openvpn_exporter](https://github.com/Spleenftw/openvpn_exporter) where you can find my fork of the openvpn_exporter tool.
