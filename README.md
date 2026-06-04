@@ -9,7 +9,7 @@ There's a few repositories :
   - [blog](https://github.com/spleenftw/blog) where you can find my blog where I'm talking about linux, network and security.
   - [blowdit](https://github.com/spleenftw/blowdit) where you can find my bludit theme based on blowfish (hugo).
   - [bludit-github](https://github.com/spleenftw/bludit-github) where you can find my bludit plugin to push my articles to the blog repository.
-  - [github-comments-for-bludit](https://github.com/Spleenftw/github-comments-for-bludit) which is a fork, using utteranc.es to create issue and used as comments on the blog repository.
+  - [bludit-github-comments](https://github.com/Spleenftw/bludit-github-comments) which is a fork, using utteranc.es to create issue and used as comments on the blog repository.
   - [dotfiles](https://github.com/spleenftw/dotfiles) where you can find my linux dotfiles.
   - [wallpapers](https://github.com/spleenftw/wallpapers) where you can find all the wallpapers i'm currently using.
   - [openvpn_exporter](https://github.com/Spleenftw/openvpn_exporter) where you can find my fork of the openvpn_exporter tool.
