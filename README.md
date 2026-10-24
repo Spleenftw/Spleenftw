@@ -7,7 +7,7 @@ Hello there, spleenftw here, Netops. I kinda like Linux so you'll find plenty of
 ### What can you find here ?
 There's a few repositories :
   - [blog](https://github.com/spleenftw/blog) — my blog, where I talk about Linux, networking and security.
-    - [bludit-docker](https://github.com/spleenftw/bludit-docker) - An unofficial Bludit Docker image built on the official PHP image, rebuilt weekly and published on ghcr.io.
+  - [bludit-docker](https://github.com/spleenftw/bludit-docker) - An unofficial Bludit Docker image built on the official PHP image, rebuilt weekly and published on ghcr.io.
   - [bludit-blowfish](https://github.com/spleenftw/bludit-blowfish) — A Bludit theme that brings the Hugo Blowfish design to your blog.
   - [bludit-github-sync](https://github.com/spleenftw/bludit-github-sync) — A Bludit plugin that auto-exports your articles to a GitHub repo as Markdown.
   - [bludit-github-comments](https://github.com/spleenftw/bludit-github-comments) — A Bludit plugin that adds comments via GitHub and Utterances.
